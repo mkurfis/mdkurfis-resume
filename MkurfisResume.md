@@ -10,9 +10,11 @@ mkurfis@gmail.com  |  www.linkedin.com/in/mdkurfis
 
 ## SKILLS													
 Testing Tools:	Ixia IxChariot, Spirent TestCenter, OpenText LoadRunner Enterprise
+
 Project Management Tools:	Microsoft Project, Microsoft SharePoint, Atlassian Jira
 Programming Languages:	Beginning/Basic - HTML, PowerShell, Python, Ruby, CSS, JavaScript, SQL, YAML
 Databases:	MySQL, SQLite, Microsoft Access
+
 Other Software: 	Microsoft Office products (Word, Excel, PowerPoint, Visio, Outlook, OneNote, Teams, Loop), Jama Contour; Intel internal defect tracking, test case management, and requirements management tools, Atlassian Confluence, GitHub, ServiceNow, LucidChart
 Operating Systems:	Windows NT 4.0 Server, Windows Server 2000 through 2016, Server 2016 Hyper-V, Red Hat Linux, Windows 95 through Windows 10
 
