@@ -36,10 +36,10 @@ Performance Validation Project Lead – Intel Corporation, Hillsboro, OR		07/200
 Additional employment history is available on [my LinkedIn profile](https://www.linkedin.com/in/mdkurfis/).
 
 ## EDUCATION & PROFESSIONAL DEVELOPMENT						
-Completion, Treehouse: 	Tracks: Learn Python, SQL; Courses: Database Foundations, Agile, Scrum, MongoDB	
-Completion, Codecademy: 	Learn SQL, SQL: Table Transformation, SQL: Analyzing Business Metrics, Python, Ruby, Git
-Additional training in Azure and GitHub fundamentals via Microsoft and GitHub self-paced training
-Diploma, US Army Aviation Operations and Dispatch School, Ft. Rucker, AL			
-Diploma, US Army Aerial Search and Observation School, Ft. Rucker, AL				
-Diploma, US Army Basic Leadership and Management School, Ft. Hood, TX			
-Diploma, Essex Junction High School, Essex Junction, VT	
+- Completion, Treehouse: 	Tracks: Learn Python, SQL; Courses: Database Foundations, Agile, Scrum, MongoDB
+- Completion, Codecademy: 	Learn SQL, SQL: Table Transformation, SQL: Analyzing Business Metrics, Python, Ruby, Git
+- Additional training in Azure and GitHub fundamentals via Microsoft and GitHub self-paced training
+- Diploma, US Army Aviation Operations and Dispatch School, Ft. Rucker, AL			
+- Diploma, US Army Aerial Search and Observation School, Ft. Rucker, AL				
+- Diploma, US Army Basic Leadership and Management School, Ft. Hood, TX			
+- Diploma, Essex Junction High School, Essex Junction, VT	
