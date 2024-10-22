@@ -4,9 +4,10 @@ Gresham, OR 97080 | 503-709-9337
 mkurfis@gmail.com  |  www.linkedin.com/in/mdkurfis 
 
 ## SUMMARY												
-- Organized, collaborative, and detail-oriented servant leader with over 22 years’ experience leading software QA projects and teams for multiple concurrent software releases, managing software upgrade projects, and a track record of solving technical and process problems. 
-- Expertise in Ethernet networking, project management, software/solution development lifecycle, requirements management and change management processes, process improvement, and DevSecOps and Agile methodologies. Familiar with the Project Management Body of Knowledge (PMBOK).
-- Reliable and even-keeled with exceptional interpersonal and presentation skills, experienced at interfacing with key stakeholders at all organizational levels.
+-	Organized, collaborative, and detail-oriented servant leader with extensive demonstrated experience achieving results by leading software QA projects and teams for multiple concurrent software releases, managing software upgrade projects, and a track record of solving technical and process problems as well as customer success and user advocacy. 
+-	Expertise in project management, software/solution development lifecycle, requirements management and change management processes, process improvement, and DevSecOps and Agile/Scrum principles. Familiar with the Project Management Body of Knowledge (PMBOK). Certified Scrum Master.
+-	Reliable and even keeled with exceptional interpersonal and presentation skills, experienced at interfacing and facilitating discussions with key stakeholders at all organizational levels.
+
 
 ## SKILLS													
 Testing Tools:	Ixia IxChariot, Spirent TestCenter, OpenText LoadRunner Enterprise
@@ -16,7 +17,7 @@ Programming Languages:	Beginning/Basic - HTML, PowerShell, Python, Ruby, CSS, Ja
 Databases:	MySQL, SQLite, Microsoft Access
 
 Other Software: 	Microsoft Office products (Word, Excel, PowerPoint, Visio, Outlook, OneNote, Teams, Loop), Jama Contour; Intel internal defect tracking, test case management, and requirements management tools, Atlassian Confluence, GitHub, ServiceNow, LucidChart
-Operating Systems:	Windows NT 4.0 Server, Windows Server 2000 through 2016, Server 2016 Hyper-V, Red Hat Linux, Windows 95 through Windows 10
+Operating Systems:	Windows NT 4.0 Server, Windows Server 2000 through 2019, Server 2016 Hyper-V, Red Hat Linux, Windows 95 through Windows 10
 
 ## EXPERIENCE												
 ### Senior IT Consultant – Kaiser Permanente, Lake Oswego, OR / Remote		05/2017 – 10/2024
@@ -34,9 +35,11 @@ Operating Systems:	Windows NT 4.0 Server, Windows Server 2000 through 2016, Serv
 - Upgraded lab network, including the replacement of the core enterprise switch and 12 top-of-rack switches. Installed and configured 96 1U and 2U rack-mount servers, including the deployment of 200+ Windows virtual machines.
 
 ## ADDITIONAL EXPERIENCE									
+Honorably discharged from the US Army after 8 years of service in the US and Europe.
 Additional employment history is available on [my LinkedIn profile](https://www.linkedin.com/in/mdkurfis/).
 
 ## EDUCATION & PROFESSIONAL DEVELOPMENT						
+- Certified Scrum Master (CSM), Scrum Alliance - 2024
 - Completion, Treehouse: 	Tracks: Learn Python, SQL; Courses: Database Foundations, Agile, Scrum, MongoDB
 - Completion, Codecademy: 	Learn SQL, SQL: Table Transformation, SQL: Analyzing Business Metrics, Python, Ruby, Git
 - Additional training in Azure and GitHub fundamentals via Microsoft and GitHub self-paced training
